@@ -1,0 +1,14 @@
+[submodule "gmoney-server"]
+	path = gmoney-server
+	url = ./gmoney-server
+[submodule "gmoney-web"]
+	path = gmoney-web
+	url = ./gmoney-web
+[submodule "gmoney-store-server"]
+	path = gmoney-store-server
+	url = https://github.com/roharon/gmoney-store-server.git
+	branch = master
+[submodule "gmoney-store-web"]
+	path = gmoney-store-web
+	url = https://github.com/roharon/gmoney-store-web
+	branch = master
